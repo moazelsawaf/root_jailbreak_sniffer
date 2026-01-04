@@ -10,7 +10,7 @@ android {
         namespace "com.emrys.rjsniffer.rjsniffer_example"
     }
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = "29.0.14033849"
+    ndkVersion = "29.0.14206865"
 
 
     compileOptions {
